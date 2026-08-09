@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+config.json
+output/
+uploads/
+dist/
+build/
+*.spec
+sample_output/
+test_http.py
+test_demo.py

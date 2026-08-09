@@ -1,0 +1,14 @@
+[
+  {"name": "Bright Energy Retrofit Ltd", "town": "London", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Thames Solar Installations Ltd", "town": "London", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Northbank Property Group", "town": "London", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "GreenHeat Renewable Systems", "town": "Manchester", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Capital Housing Partnership", "town": "London", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Velocity Software Consulting", "town": "London", "routes": ["Skilled Worker", "Global Business Mobility: Senior or Specialist Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "United Utilities Field Services", "town": "Warrington", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Crestline Construction & Energy", "town": "Birmingham", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Metro Lettings Technology Ltd", "town": "London", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Quantum Supply Chain Digital", "town": "Reading", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Elmhurst Insulation Services", "town": "Leeds", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]},
+  {"name": "Pinewood Estate Management", "town": "London", "routes": ["Skilled Worker"], "ratings": ["Worker (A rating)"]}
+]

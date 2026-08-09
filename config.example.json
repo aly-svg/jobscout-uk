@@ -1,0 +1,13 @@
+{
+  "provider": "Gemini",
+  "model": "gemini-2.5-flash",
+  "llm_api_key": "PASTE-YOUR-GEMINI-OR-OPENAI-OR-CLAUDE-KEY-HERE",
+  "adzuna_app_id": "PASTE-ADZUNA-APP-ID (free from developer.adzuna.com)",
+  "adzuna_app_key": "PASTE-ADZUNA-APP-KEY",
+  "reed_api_key": "PASTE-REED-KEY (free from reed.co.uk/developers/jobseeker)",
+  "location": "London",
+  "distance_miles": 15,
+  "days_back": 7,
+  "max_jobs": 60,
+  "letters_for_top": 8
+}
